@@ -7,7 +7,7 @@ It is a  Python program integrated  with an OpenAI API
 Interpret user queries and provide appropriate responses.
 
 
-![Image](https://github.com/Abhishek-Kushwaha02/CURE-AI/blob/4ee455012f0c8c68b60fd45e96a2bee859554ace/Screenshot%202025-05-04%20194736.png)
+![Image](https://github.com/Abhishek-Kushwaha02/chatbot/blob/a7391c890914f5c5b629800f438f100cfe881357/Screenshot%202025-05-04%20221946.png)
 
 ---
 
